@@ -1,0 +1,1 @@
+<div id="copyright">© Copyright 2020 Techs</div>
